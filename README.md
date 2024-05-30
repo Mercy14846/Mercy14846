@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Mercy Onaopemipo AKINTOLA is a ✨ _special_ Geospatial Intelligence Imagery Analyst ✨
+MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Analyst ✨
 
 - 🔭 I’m currently working on Eco Smart Cities Project for Nigeria
 
