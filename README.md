@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 Mercy Onaopemipo AKINTOLA is a ✨ _special_ Geospatial Intelligence Imagery Analyst ✨
 
