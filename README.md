@@ -2,13 +2,13 @@
 
 MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Analyst ✨
 
-- 🔭 I’m currently working on Eco Smart Cities Project for Nigeria
+- 🔭 I’m currently working on Eco Smart Cities Project for Nigeria as a Global Validator 
 
 - 👯 I’m looking to collaborate on Geospatial Projects all over the world
 
 - 💬 Ask me about Maps
 
-- 🌱 I’m currently learning Gentoo Linx os
+- 🌱 I’m currently learning Gentoo Linx OS
 <!--
 **Mercy14846/Mercy14846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
