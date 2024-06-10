@@ -4,7 +4,7 @@ MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Ana
 
 - 🔭 I’m currently working on Eco Smart Cities Project for Nigeria as a Global Validator 
 
-- 👯 I’m looking to collaborate on Geospatial Projects all over the world to impact local 
+- 👯 I’m looking to collaborate on Geospatial Projects all over the world to impact local communities
 
 - 💬 Ask me about Maps
 
