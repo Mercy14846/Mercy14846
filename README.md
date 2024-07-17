@@ -6,7 +6,7 @@ MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Ana
 
 - 👯 I’m looking to collaborate on Geospatial Projects all over the world to impact local communities
 
-- 💬 Ask me about Maps
+- 💬 Ask me about Maps and Geolocation based solution
 
 - 🌱 I’m currently learning Gentoo Linx OS
 <!--
