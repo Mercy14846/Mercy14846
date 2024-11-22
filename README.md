@@ -10,7 +10,7 @@ MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Ana
 
 - 🌱 I’m currently learning and working on Gentoo Linx OS for advanced usage
 
-- ⚡ Fun fact: Love playing football
+- ⚡ Fun fact: Love playing football and going for field mapping
 <!--
 **Mercy14846/Mercy14846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
