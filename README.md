@@ -2,6 +2,8 @@
 
 MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Analyst and a GeoDev✨
 
+- 📫 Build a UHI Model to make accurate predictions 
+
 - 🔭 I worked on the Eco Smart Cities Project for Nigeria as a Global Validator from Data to Impact 
 
 - 👯 I’m looking to collaborate on Geospatial Projects all over the world to impact local communities
@@ -10,7 +12,7 @@ MERCY Onaopemipo Akintola is a ✨ _special_ Geospatial Intelligence Imagery Ana
 
 - 🌱 I’m currently learning and working on Gentoo Linx OS for advanced usage
 
-- ⚡ Fun fact: Love playing football and going for field mapping
+- ⚡ Fun fact: I love playing football and going for field mapping
 <!--
 **Mercy14846/Mercy14846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
