@@ -146,27 +146,6 @@ Deep-learning approaches for detecting and analysing urban heat patterns using s
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mercy14846&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercy14846&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mercy14846&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mercy14846&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 I'm open to:
