@@ -1,31 +1,217 @@
-# 💫 About Me:
-Hey there 👋<br>MERCY Onaopemipo Akintola is a ✨ special Geospatial Intelligence Imagery Analyst and a GeoDev✨<br><br>📫 Build a UHI Model to make accurate predictions<br><br>🔭 I worked on the Eco Smart Cities Project for Nigeria as a Global Validator from Data to Impact<br><br>👯 I’m looking to collaborate on Geospatial Projects all over the world to impact local communities<br><br>💬 Ask me about Maps and Geolocation solutions to know what is where without getting there<br><br>🌱 I’m currently learning and working on Gentoo Linx OS for advanced usage<br><br>⚡ Fun fact: I love playing football and going for geofield mapping
+# 👋 Hi, I'm Mercy Akintola
 
+### 🌍 Geospatial Developer · Earth Observation · GeoAI · Remote Sensing
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mercixs_gis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akintola-mercy/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mercixs_gis) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mercixc_gis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mercygis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akintolamercy21@gmail.com) 
+I build **geospatial solutions that turn satellite imagery, spatial data, and AI into actionable insights** for real-world problems.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mercy14846&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mercy14846&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mercy14846&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+My work sits at the intersection of **Geospatial Intelligence, Earth Observation, Remote Sensing, GIS, Python, GeoAI, climate resilience, disaster risk, and open mapping**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mercy14846&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mercy14846&limit=5&theme=dark&combine_all_yearly_contributions=true)
+> **Maps tell us where. Data tells us what. GeoAI helps us understand why — and what happens next.**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mercy14846&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akintolamercy21@gmail.com) 
+## 🚀 What I Do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🛰️ **Earth Observation & Remote Sensing** — extracting insights from Sentinel-1/2, Landsat, DEMs and other EO datasets
+* 🗺️ **Geospatial Development** — building GIS applications, APIs, spatial databases and web mapping solutions
+* 🤖 **GeoAI & Machine Learning** — applying ML/DL to satellite imagery, classification, prediction and spatial analysis
+* 🌊 **Climate & Disaster Risk** — flood monitoring, hazard assessment, climate resilience and environmental modelling
+* 🏙️ **Urban Analytics** — urban heat islands, land-use/land-cover, urban growth and spatial intelligence
+* 🌍 **Open Mapping** — OpenStreetMap, HOT, humanitarian mapping and community-driven geospatial data
+* 🐍 **Geospatial Python** — automation, spatial analysis, raster/vector processing and reproducible workflows
+
+---
+
+## 🔬 Research & Project Interests
+
+I'm particularly interested in building geospatial systems around:
+
+**🌊 Flood Risk & Hydrology**
+Near-real-time flood monitoring, flood hazard modelling, hydrological analysis and disaster response.
+
+**🌡️ Urban Climate & Heat**
+Urban Heat Island detection, environmental modelling and climate-resilient cities.
+
+**🛰️ Earth Observation & GeoAI**
+Deep learning, computer vision and scalable AI workflows for satellite imagery.
+
+**🌍 Climate Resilience**
+Using geospatial intelligence to understand climate risks and support adaptation planning.
+
+**🗺️ Open Geospatial Data**
+OpenStreetMap, humanitarian mapping, community mapping and geospatial data quality.
+
+---
+
+## 🧠 Featured Work
+
+### 🌊 Near-Time Flood Monitoring — Niger River Basin
+
+**Enhancing Disaster Response and Resilience through Near-time GIS for Flood Monitoring and Analysis**
+
+A geospatial workflow combining:
+
+`Sentinel-1` · `Sentinel-2` · `Landsat` · `SRTM` · `NDWI` · `LULC` · `WorldPop` · `OSM` · `Google Earth Engine`
+
+The project explored flood extent, environmental impacts, exposed populations and infrastructure to support disaster response and resilience planning.
+
+---
+
+### 🌡️ Urban Heat Island Detection — Lagos
+
+Research applying **open-source deep learning and Earth Observation** to detect and analyse Urban Heat Island patterns.
+
+Technologies include:
+
+`Sentinel-2` · `Python` · `TensorFlow` · `U-Net` · `Attention Mechanisms` · `GeoAI`
+
+---
+
+### 🏘️ Mapping for Climate-Ready Cities
+
+Worked on large-scale building footprint validation and quality assurance across **Nigeria and Côte d’Ivoire**, contributing to climate-resilience mapping through open geospatial data.
+
+Tools included:
+
+`OpenStreetMap` · `HOT` · `QGIS` · `JOSM` · `GeoPandas` · `Python` · `Satellite Imagery`
+
+---
+
+## 🛠️ Geospatial & Technical Stack
+
+### 🌍 GIS & Earth Observation
+
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge\&logo=esri\&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge\&logo=qgis\&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge\&logo=googleearthengine\&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge\&logo=openstreetmap\&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
+![Rasterio](https://img.shields.io/badge/Rasterio-3B7A57?style=for-the-badge)
+
+### 🐍 Programming & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### ☁️ Cloud, Backend & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### ⚙️ Development & Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+
+---
+
+## 📦 Selected Projects
+
+### 🌍 GeoAfrica
+
+A Python-focused geospatial toolkit for spatial analysis and geospatial workflows.
+
+### 🏠 Street Naming & House Numbering
+
+A GIS platform concept for improving location intelligence, addressing and geospatial accessibility.
+
+### 🌊 Flood Intelligence
+
+Earth Observation workflows for flood detection, exposure analysis and disaster-risk assessment.
+
+### 🌡️ Urban Heat Intelligence
+
+Deep-learning approaches for detecting and analysing urban heat patterns using satellite imagery.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mercy14846&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mercy14846&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Mercy14846&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mercy14846&theme=algolia&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+I'm open to:
+
+🌍 **Geospatial collaborations**
+🛰️ **Earth Observation projects**
+🤖 **GeoAI & ML research**
+🌊 **Climate & disaster-risk projects**
+🗺️ **Open mapping initiatives**
+💻 **Geospatial software development**
+
+<p align="center">
+
+<a href="https://mercyakintola.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mercy14846">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/akintola-mercy/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/mercixc_gis">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:akintolamercy21@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 💡 My Mission
+
+> **Building geospatial intelligence that helps people understand places, predict risks, and make better decisions.**
+
+**Where GIS meets Earth Observation, AI, and real-world impact. 🌍🛰️🤖**
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile — let's build something geospatial.</i>
+</p>
