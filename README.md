@@ -45,7 +45,7 @@ OpenStreetMap, humanitarian mapping, community mapping and geospatial data quali
 
 ## 🧠 Featured Work
 
-### 🌊 Near-Time Flood Monitoring — Niger River Basin
+### 🌊 Near-Time Flood Monitoring - Niger River Basin
 
 **Enhancing Disaster Response and Resilience through Near-time GIS for Flood Monitoring and Analysis**
 
@@ -57,7 +57,7 @@ The project explored flood extent, environmental impacts, exposed populations an
 
 ---
 
-### 🌡️ Urban Heat Island Detection — Lagos
+### 🌡️ Urban Heat Island Detection - Lagos
 
 Research applying **open-source deep learning and Earth Observation** to detect and analyse Urban Heat Island patterns.
 
